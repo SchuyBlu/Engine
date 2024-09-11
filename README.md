@@ -10,4 +10,4 @@ The build dependencies are fairly straightforward. [MonoGame](https://monogame.n
 dotnet build; dotnet run --project ./src/Engine.csproj
 ```
 
-I will attempt getting this set up to run with just `dotnet run`. This should work independant of platform. To test just run `dotnet test`.
+This should work independant of platform. To test just run `dotnet test`.
